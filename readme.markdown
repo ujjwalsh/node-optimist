@@ -9,6 +9,8 @@ successor to optimist.
 
 [![yarrrrrrrgs!](http://i.imgur.com/4WFGVJ9.png)](https://github.com/chevex/yargs)
 
+You should also consider [nomnom](https://github.com/harthur/nomnom).
+
 optimist
 ========
 
